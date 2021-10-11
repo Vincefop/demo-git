@@ -1,3 +1,8 @@
+```Java
+String val = "Hello there"
+```
+
+
 # Titre changé avec un \#
 ## Sous-titre avec deux \##
 ### Sous-sous-titre avec trois \#
